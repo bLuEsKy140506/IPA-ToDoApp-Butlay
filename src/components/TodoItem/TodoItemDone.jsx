@@ -9,6 +9,7 @@ import cx from "classnames";
 import "./TodoItem.css";
 import { deleteTodo, updateTodo } from "../../store/reducers/todos";
 
+//replica of todoitem and its primary function is to separate it to the not done items
 export default function TodoItemDone({ todo }) {
   let { id, title, text, state } = todo;
   const dispatch = useDispatch();

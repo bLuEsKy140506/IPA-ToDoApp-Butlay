@@ -72,6 +72,7 @@ export default function TodoItem({ todo, index, onDragStart, onDrop }) {
   });
 
   //=========================  EXTRA SECTION : Development Phase ===================================
+  //========================= copied from the internet but I make sure to understand before integrated to this App
   const itemRef = useRef(null);
 
   const on1DragStart = (e) => {

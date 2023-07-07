@@ -3,7 +3,7 @@
     {
       "id": "8rvhaez",
       "title": "STAY HOPEFUL🤞",
-      "text": "Stay hopeful despite I am one of the last students to build and develop this ToDo App ",
+      "text": "Stay hopeful despite I am one of the last students to solve and develop this ToDo App IPA",
       "state": "pending"
     },
     {
@@ -16,19 +16,19 @@
       "id": 4,
       "title": "Learn and apply the HTTP - DELETE request AND how it relates to React and Redux extraReducer functions",
       "text": "Review the HTTP-DELETE documentation and its syntax in javascript format. Also the react components and redux extraReducer syntax and logic. Apply the acquired knowledge",
-      "state": "pending"
+      "state": "done"
     },
     {
       "id": 5,
       "title": "Learn and apply the HTTP - PATCH request AND how it relates to React and Redux extraReducer functions",
       "text": "Review the HTTP-PATCH documentation and its syntax in javascript format. Also the react components and redux extraReducer syntax and logic. Apply the acquired knowledge",
-      "state": "pending"
+      "state": "in progress"
     },
     {
       "id": "gkilit5",
       "title": "Modify the format of the state UI ",
       "text": "Format the state (pending, in progress, done ) UI. Green for Done, Orange for in progress, Blue fors pending",
-      "state": "pending"
+      "state": "in progress"
     },
     {
       "id": 1,

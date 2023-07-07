@@ -7,6 +7,7 @@
   position: relative;
 }
 
+/*FOCUS TASK formats*/
 .todo-list-container .todo-item-container:first-child {
   grid-column-start: 1;
   grid-column-end: -1;
@@ -16,6 +17,7 @@
   top: 5vh;
 }
 
+/* just to emphasis the exact position to be drag on */
 .todo-list-container:before {
   position: sticky;
   content: "👇";
