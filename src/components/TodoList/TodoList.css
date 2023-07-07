@@ -1,0 +1,32 @@
+.todo-list-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+  gap: 10px;
+  padding: 2px 20px;
+  position: relative;
+}
+
+.todo-list-container .todo-item-container:first-child {
+  grid-column-start: 1;
+  grid-column-end: -1;
+  background-color: darkslategray;
+  color: white;
+  position: sticky;
+  top: 5vh;
+}
+
+.todo-list-container:before {
+  position: sticky;
+  content: "👇";
+  top: 0vh;
+  font-size: large;
+}
+
+.todo-list-container-done {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+  gap: 10px;
+  padding: 20px;
+}
