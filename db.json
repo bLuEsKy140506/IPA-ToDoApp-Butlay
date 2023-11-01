@@ -34,13 +34,13 @@
       "id": 1,
       "title": "Read the Individual Project 5 - Project: To-Do List",
       "text": "Read and understand each step. Review the required knowledgde needed particularly on HTTP request and REDUX",
-      "state": "done"
+      "state": "in progress"
     },
     {
       "id": 2,
       "title": "Inspect the pre-made repository",
       "text": "Read and explore the pre-written code in the repository",
-      "state": "done"
+      "state": "in progress"
     }
   ]
 }
